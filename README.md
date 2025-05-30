@@ -1,66 +1,81 @@
-
-<h1 align="center">Hi there 👋, I'm Faris</h1>
-<h3 align="center">A passionate Full-Stack Developer from [Your Country]</h3>
+<h1 align="center">Hey 👋, I'm Faris</h1>
+<h3 align="center">Full-Stack Developer • Cybersecurity eng • Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7A500&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;Loves+building+modern+web+apps;Always+learning+new+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7A500&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+%F0%9F%92%BB;Cybersecurity+Learner+%F0%9F%94%91;Docker%2C+React+%26+API+Lover;Biomedical+Engineer+turned+Dev" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💫 About Me:
-- 🔭 I’m currently working on: `An Online Learning Platform`
-- 🌱 I’m currently learning: `React`, `Docker`, `Cybersecurity`
-- 💬 Ask me about: `Flask`, `Node.js`, `APIs`, `Penetration Testing`
-- ⚡ Fun fact: I speak both tech & biomedical 😄
+### 🚀 About Me
+
+- 🔭 Working on: **CourseHub – An Online Learning Platform**
+- 🧠 Learning: `Full stack Devlopment`, `Docker`, `Cybersecurity `
+- 🛠️ Tech stack: `MERN`, `Flask`, `PostgreSQL`, `Tailwind`, `Docker`, `Linux`, `My SQL`
+- 🧪 Passionate about building secure, modern web applications
+- 💬 Ask me about: `REST APIs`, `Flask`, `Node.js`, `Penetration Testing`
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,react,mongodb,postgresql,html,css,js,tailwind,docker,linux,bash" />
-</p>
+### 🧰 Tech Toolbox
 
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="streak" />
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,react,mongodb,postgresql,html,css,js,tailwind,docker,linux,bash,git,vscode" />
 </p>
 
 ---
 
-### 🔥 Contribution Snake:
-![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+### 🧠 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🚀 Glamorizedbyreel](https://github.com/fares002/glamorizedbyreel) | Online makeup reservation system. | Node.js, React, MongoDB, Tailwind |
+| [📊 Kenany Store](https://github.com/fares002/kenanystore_v2) | Ecommerce website | Python, Flask, Mysql, Html, Css, Js |
+| [🔐 MyPortfolio](https://github.com/fares002/MyPortfolio) | A Modren Portfolio Website | Html, Css, Tailwind, React |
 
 ---
 
-### 🧠 My Top Projects:
-- 🚀 [**CourseHub**](https://github.com/your-username/coursehub) – Online course platform with authentication, course CRUD, and video viewer.
-- 📊 [**Sales Dashboard**](https://github.com/your-username/sales-dashboard) – Interactive dashboard using Python, pandas & Plotly.
+### 📊 GitHub Stats
 
----
-
-### 📫 Connect With Me:
-<p align="left">
-  <a href="https://linkedin.com/in/your-name" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" /></a>
-  <a href="mailto:youremail@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" /></a>
-  <a href="https://yourportfolio.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" alt="website" height="30" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fares002&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fares002&theme=radical" height="180"/>
 </p>
 
 ---
 
-### 🧩 Fun Facts:
-- 🧠 I love teaching tech to others
-- 🕵️‍♂️ I’m preparing for the eJPT certification
-- 🧳 I’m planning to visit Saudi Arabia soon
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/fares002/fares002/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fares-osama-504191284/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:faresosama002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://faresosama.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+</p>
 
 ---
 
-> Made with ❤️ by Faris
+### 💡 Fun Facts
+
+- 🧠 I teach others while I learn.
+- 🕵️ Preparing for the **OSCP** certification.
+- ⚙️ Obsessed with writing clean, secure, and maintainable code.
+
+---
+
+### 📜 Quote I Live By
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+<h3 align="center">Made with ❤️ by Faris</h3>
+
 
