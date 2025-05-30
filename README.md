@@ -47,7 +47,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/fares002/fares002/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/fares002/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ---
