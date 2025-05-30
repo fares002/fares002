@@ -47,10 +47,8 @@
 ## 🐍 Contributions Tracker
 
 <p align="center">
-  <img src="https://github.com/fares002/snk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/fares002/fares002/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-> **Note**: To make the snake work, set up [this GitHub Action](https://github.com/Platane/snk#readme) in your `fares002/fares002` repository.
 
 ---
 
